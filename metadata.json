@@ -1,0 +1,6 @@
+{
+  "name": "FitForge AI",
+  "description": "Premium AI-powered personal trainer and fitness coaching platform delivering adaptive workouts, nutrition guidance, and smart progress tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["AI Coaching", "Form Correction", "Workout Planning"]
+}
